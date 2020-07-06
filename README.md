@@ -2,9 +2,9 @@ Make sure Ruby and Rspec(gem) installed.
 
 Run the follwoing command to run the application
 
-'''ruby play.rb'''
+```ruby play.rb```
 
 
 Run the specs using:
 
-'''rspec specs.rb'''
+```rspec specs.rb```
